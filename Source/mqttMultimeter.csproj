@@ -43,7 +43,7 @@
         <PackageReference Include="Google.Protobuf" Version="3.27.3" />
         <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
         <PackageReference Include="MQTTnet" Version="5.0.0.1145" />
-        <PackageReference Include="MessagePack" Version="2.5.172" />
+        <PackageReference Include="MessagePack" Version="2.5.187" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     </ItemGroup>
     <ItemGroup>
